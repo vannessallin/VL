@@ -1,0 +1,108 @@
+[04-Apr-2024 00:50:24 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 135
+[04-Apr-2024 00:50:28 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 135
+[04-Apr-2024 00:50:28 UTC] PHP Notice: A feed could not be found at `https://wordpress.org/news/feed/`; the status code is `400` and content-type is `text/plain` in /wordpress/wp-includes/class-simplepie.php on line 2
+[04-Apr-2024 00:50:28 UTC] PHP Notice: A feed could not be found at `https://planet.wordpress.org/feed/`; the status code is `400` and content-type is `text/plain` in /wordpress/wp-includes/class-simplepie.php on line 2
+[04-Apr-2024 00:50:31 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 135
+[04-Apr-2024 00:51:03 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 135
+[04-Apr-2024 00:51:04 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 135
+[04-Apr-2024 00:51:10 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 135
+[04-Apr-2024 00:51:12 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 135
+[04-Apr-2024 00:53:37 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 135
+[04-Apr-2024 00:53:43 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 135
+[04-Apr-2024 00:58:05 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 135
+[04-Apr-2024 00:59:24 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 135
+[04-Apr-2024 00:59:25 UTC] PHP Warning:  Undefined property: WP_Ajax_Upgrader_Skin::$api in /wordpress/wp-admin/includes/class-theme-upgrader.php on line 2
+[04-Apr-2024 00:59:26 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 135
+[04-Apr-2024 00:59:30 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 135
+[04-Apr-2024 00:59:49 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 135
+[04-Apr-2024 01:00:07 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
+[04-Apr-2024 01:00:13 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 135
+[04-Apr-2024 01:02:30 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 135
+[04-Apr-2024 01:02:35 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
+[04-Apr-2024 01:04:40 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
+[04-Apr-2024 01:05:53 UTC] PHP Notice: A feed could not be found at `https://wordpress.org/`; the status code is `400` and content-type is `text/plain` in /wordpress/wp-includes/class-simplepie.php on line 2
+[04-Apr-2024 01:06:35 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
+[04-Apr-2024 01:09:50 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 135
+[04-Apr-2024 01:10:20 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
+[04-Apr-2024 01:14:36 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 135
+[04-Apr-2024 01:15:22 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 135
+[04-Apr-2024 01:31:03 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 135
+[04-Apr-2024 01:31:05 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 135
+[04-Apr-2024 01:31:10 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 135
+[04-Apr-2024 01:31:12 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 135
+[04-Apr-2024 01:31:52 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 135
+[04-Apr-2024 01:31:54 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 135
+[04-Apr-2024 01:35:49 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
+[04-Apr-2024 01:38:52 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
+[04-Apr-2024 01:39:05 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 135
+[04-Apr-2024 01:39:20 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
+[04-Apr-2024 01:40:36 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
+[04-Apr-2024 01:40:40 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
+[04-Apr-2024 01:41:36 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
+[04-Apr-2024 01:41:39 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
+[04-Apr-2024 01:43:07 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
+[04-Apr-2024 01:43:41 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
+[04-Apr-2024 01:44:44 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
+[04-Apr-2024 01:45:04 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 135
+[04-Apr-2024 01:45:30 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
+[04-Apr-2024 01:45:47 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
+[04-Apr-2024 01:46:56 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 135
+[04-Apr-2024 01:49:06 UTC] PHP Warning:  get_headers(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /wordpress/wp-content/plugins/ecommerce-product-catalog/modules/cart/includes/cart/ic_cached_cart.php on line 47
+[04-Apr-2024 01:49:06 UTC] PHP Warning:  get_headers(): This function may only be used against URLs in /wordpress/wp-content/plugins/ecommerce-product-catalog/modules/cart/includes/cart/ic_cached_cart.php on line 47
+[04-Apr-2024 01:49:36 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 135
+[04-Apr-2024 01:49:41 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
+[04-Apr-2024 01:49:49 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
+[04-Apr-2024 01:50:06 UTC] PHP Warning:  file_get_contents(/wordpress/wp-includes/css/classic-themes.min.css): Failed to open stream: No such file or directory in /wordpress/wp-includes/script-loader.php on line 14
+[04-Apr-2024 01:50:22 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 135
+[04-Apr-2024 01:58:59 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 135
+[04-Apr-2024 01:59:31 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 135
+[04-Apr-2024 01:59:35 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 135
+[04-Apr-2024 01:59:37 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 135
+[04-Apr-2024 01:59:57 UTC] PHP Warning:  get_headers(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /wordpress/wp-content/plugins/ecommerce-product-catalog/modules/cart/includes/cart/ic_cached_cart.php on line 47
+[04-Apr-2024 01:59:57 UTC] PHP Warning:  get_headers(): This function may only be used against URLs in /wordpress/wp-content/plugins/ecommerce-product-catalog/modules/cart/includes/cart/ic_cached_cart.php on line 47
+[04-Apr-2024 01:59:57 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 135
+[04-Apr-2024 02:00:09 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 135
+[04-Apr-2024 02:00:10 UTC] PHP Warning:  get_headers(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /wordpress/wp-content/plugins/ecommerce-product-catalog/modules/cart/includes/cart/ic_cached_cart.php on line 47
+[04-Apr-2024 02:00:10 UTC] PHP Warning:  get_headers(): This function may only be used against URLs in /wordpress/wp-content/plugins/ecommerce-product-catalog/modules/cart/includes/cart/ic_cached_cart.php on line 47
+[04-Apr-2024 02:00:10 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 135
+[04-Apr-2024 02:00:43 UTC] PHP Warning:  Trying to access array offset on value of type bool in /wordpress/wp-content/plugins/wp-global-site-tag/public/class-wp-global-site-tag-public.php on line 59
+[04-Apr-2024 02:00:43 UTC] PHP Warning:  Trying to access array offset on value of type bool in /wordpress/wp-content/plugins/wp-global-site-tag/public/class-wp-global-site-tag-public.php on line 60
+[04-Apr-2024 02:00:57 UTC] PHP Warning:  Trying to access array offset on value of type bool in /wordpress/wp-content/plugins/wp-global-site-tag/public/class-wp-global-site-tag-public.php on line 59
+[04-Apr-2024 02:00:57 UTC] PHP Warning:  Trying to access array offset on value of type bool in /wordpress/wp-content/plugins/wp-global-site-tag/public/class-wp-global-site-tag-public.php on line 60
+[04-Apr-2024 02:04:19 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 135
+[04-Apr-2024 02:04:20 UTC] PHP Warning:  Trying to access array offset on value of type bool in /wordpress/wp-content/plugins/wp-global-site-tag/public/class-wp-global-site-tag-public.php on line 59
+[04-Apr-2024 02:04:20 UTC] PHP Warning:  Trying to access array offset on value of type bool in /wordpress/wp-content/plugins/wp-global-site-tag/public/class-wp-global-site-tag-public.php on line 60
+[04-Apr-2024 02:04:21 UTC] PHP Warning:  Trying to access array offset on value of type bool in /wordpress/wp-content/plugins/wp-global-site-tag/public/class-wp-global-site-tag-public.php on line 59
+[04-Apr-2024 02:04:21 UTC] PHP Warning:  Trying to access array offset on value of type bool in /wordpress/wp-content/plugins/wp-global-site-tag/public/class-wp-global-site-tag-public.php on line 60
+[04-Apr-2024 02:04:33 UTC] PHP Warning:  Trying to access array offset on value of type bool in /wordpress/wp-content/plugins/wp-global-site-tag/public/class-wp-global-site-tag-public.php on line 59
+[04-Apr-2024 02:04:33 UTC] PHP Warning:  Trying to access array offset on value of type bool in /wordpress/wp-content/plugins/wp-global-site-tag/public/class-wp-global-site-tag-public.php on line 60
+[04-Apr-2024 02:04:37 UTC] PHP Warning:  Trying to access array offset on value of type bool in /wordpress/wp-content/plugins/wp-global-site-tag/public/class-wp-global-site-tag-public.php on line 59
+[04-Apr-2024 02:04:37 UTC] PHP Warning:  Trying to access array offset on value of type bool in /wordpress/wp-content/plugins/wp-global-site-tag/public/class-wp-global-site-tag-public.php on line 60
+[04-Apr-2024 02:04:39 UTC] PHP Warning:  Trying to access array offset on value of type bool in /wordpress/wp-content/plugins/wp-global-site-tag/public/class-wp-global-site-tag-public.php on line 59
+[04-Apr-2024 02:04:39 UTC] PHP Warning:  Trying to access array offset on value of type bool in /wordpress/wp-content/plugins/wp-global-site-tag/public/class-wp-global-site-tag-public.php on line 60
+[04-Apr-2024 02:04:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /wordpress/wp-content/plugins/wp-global-site-tag/public/class-wp-global-site-tag-public.php on line 59
+[04-Apr-2024 02:04:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /wordpress/wp-content/plugins/wp-global-site-tag/public/class-wp-global-site-tag-public.php on line 60
+[04-Apr-2024 02:04:43 UTC] PHP Warning:  Trying to access array offset on value of type bool in /wordpress/wp-content/plugins/wp-global-site-tag/public/class-wp-global-site-tag-public.php on line 59
+[04-Apr-2024 02:04:43 UTC] PHP Warning:  Trying to access array offset on value of type bool in /wordpress/wp-content/plugins/wp-global-site-tag/public/class-wp-global-site-tag-public.php on line 60
+[04-Apr-2024 02:04:44 UTC] PHP Warning:  Trying to access array offset on value of type bool in /wordpress/wp-content/plugins/wp-global-site-tag/public/class-wp-global-site-tag-public.php on line 59
+[04-Apr-2024 02:04:44 UTC] PHP Warning:  Trying to access array offset on value of type bool in /wordpress/wp-content/plugins/wp-global-site-tag/public/class-wp-global-site-tag-public.php on line 60
+[04-Apr-2024 02:04:47 UTC] PHP Warning:  Trying to access array offset on value of type bool in /wordpress/wp-content/plugins/wp-global-site-tag/public/class-wp-global-site-tag-public.php on line 59
+[04-Apr-2024 02:04:47 UTC] PHP Warning:  Trying to access array offset on value of type bool in /wordpress/wp-content/plugins/wp-global-site-tag/public/class-wp-global-site-tag-public.php on line 60
+[04-Apr-2024 02:05:26 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 135
+[04-Apr-2024 02:05:29 UTC] PHP Warning:  Trying to access array offset on value of type bool in /wordpress/wp-content/plugins/wp-global-site-tag/public/class-wp-global-site-tag-public.php on line 59
+[04-Apr-2024 02:05:29 UTC] PHP Warning:  Trying to access array offset on value of type bool in /wordpress/wp-content/plugins/wp-global-site-tag/public/class-wp-global-site-tag-public.php on line 60
+[04-Apr-2024 02:06:24 UTC] PHP Warning:  Trying to access array offset on value of type bool in /wordpress/wp-content/plugins/wp-global-site-tag/public/class-wp-global-site-tag-public.php on line 59
+[04-Apr-2024 02:06:24 UTC] PHP Warning:  Trying to access array offset on value of type bool in /wordpress/wp-content/plugins/wp-global-site-tag/public/class-wp-global-site-tag-public.php on line 60
+[04-Apr-2024 02:11:20 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 135
+[04-Apr-2024 02:15:46 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 135
+[04-Apr-2024 02:15:55 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 135
+[04-Apr-2024 02:15:57 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 135
+[04-Apr-2024 02:15:57 UTC] PHP Warning:  get_headers(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /wordpress/wp-content/plugins/ecommerce-product-catalog/modules/cart/includes/cart/ic_cached_cart.php on line 47
+[04-Apr-2024 02:15:57 UTC] PHP Warning:  get_headers(): This function may only be used against URLs in /wordpress/wp-content/plugins/ecommerce-product-catalog/modules/cart/includes/cart/ic_cached_cart.php on line 47
+[04-Apr-2024 02:16:01 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 135
+[04-Apr-2024 02:16:08 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 135
+[04-Apr-2024 02:16:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /wordpress/wp-content/plugins/wp-global-site-tag/public/class-wp-global-site-tag-public.php on line 59
+[04-Apr-2024 02:16:40 UTC] PHP Warning:  Trying to access array offset on value of type bool in /wordpress/wp-content/plugins/wp-global-site-tag/public/class-wp-global-site-tag-public.php on line 60
+[04-Apr-2024 02:16:44 UTC] PHP Warning:  get_headers(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /wordpress/wp-content/plugins/ecommerce-product-catalog/modules/cart/includes/cart/ic_cached_cart.php on line 47
+[04-Apr-2024 02:16:44 UTC] PHP Warning:  get_headers(): This function may only be used against URLs in /wordpress/wp-content/plugins/ecommerce-product-catalog/modules/cart/includes/cart/ic_cached_cart.php on line 47
+[04-Apr-2024 02:16:46 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 135
