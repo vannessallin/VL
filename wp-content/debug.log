@@ -231,3 +231,4 @@
 [04-Apr-2024 03:02:22 UTC] PHP Warning:  Trying to access array offset on value of type bool in /wordpress/wp-content/plugins/wp-global-site-tag/public/class-wp-global-site-tag-public.php on line 59
 [04-Apr-2024 03:02:22 UTC] PHP Warning:  Trying to access array offset on value of type bool in /wordpress/wp-content/plugins/wp-global-site-tag/public/class-wp-global-site-tag-public.php on line 60
 [04-Apr-2024 03:02:27 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 135
+[04-Apr-2024 03:13:05 UTC] PHP Fatal error:  Out of memory (allocated 23068672) (tried to allocate 32768 bytes) in /wordpress/wp-content/plugins/ecommerce-product-catalog/includes/activation-config.php on line 457
